@@ -1,0 +1,9 @@
+1335037795
+DebugFilter	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	  module DebugFilter
+Jekyll	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	module Jekyll
+Jekyll	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	module Jekyll
+Page	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	  class Page
+Post	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	  class Post
+debug	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	    def debug(obj, stdout=false)
+inspect	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	    def inspect
+inspect	/home/kyle/code/pburghsd.github.com/_plugins/debug.rb	    def inspect
