@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pburgsd.org
+title: Plattsburgh Software Developers
 tagline:
 ---
 {% include JB/setup %}
